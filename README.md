@@ -1,39 +1,46 @@
 # Hi, I'm Ouessogo Cheick Traoré
 
-**Full-stack developer · Founder of [FIERLAH Vertex](https://fierlah-vertex.com)** - digital engineering studio based in Abidjan (Côte d'Ivoire) and Dakar (Senegal).
+**Founder of [FIERLAH Vertex](https://fierlah-vertex.com)** - a digital engineering studio based in Abidjan (Côte d'Ivoire) and Dakar (Senegal) - and student in statistical modeling and computer science.
 
-I design and ship web applications for small businesses and organizations in West Africa: business management tools, client platforms and websites that bring in customers. I work with an AI-assisted workflow (Claude Code), which lets me deliver production-ready features fast, with security reviewed at every step.
+I build software for small businesses and organizations in West Africa: management tools, community platforms and client websites. Most of my work deals with local constraints like Mobile Money payments, patchy connectivity and users who are new to digital tools.
 
-*Développeur full-stack francophone. Je conçois et livre des applications web pour les PME et organisations d'Afrique de l'Ouest.*
+Next for me: machine learning. I'd like to build models that actually fit how businesses work here, using real field data.
+
+*Francophone - je développe des logiciels pour les PME et associations d'Afrique de l'Ouest.*
 
 ---
 
+### Education
+
+- Statistical Modeling, Computer Science, Economics and Finance - ISM Dakar (2nd year completed)
+- Networks and Information Security - Virtual University of Côte d'Ivoire, UVCI (2nd year completed)
+
 ### Stack
 
-- **Frontend:** Next.js · React · TypeScript · Tailwind CSS
-- **Backend & data:** Supabase (PostgreSQL, Auth, Row Level Security, Storage) · REST APIs · Webhooks
-- **Mobile:** Flutter
-- **AI:** Claude API · Claude Code · AI agents with tool use
+- **Web:** Next.js · React · TypeScript · Tailwind CSS
+- **Data and backend:** Supabase (PostgreSQL, Auth, row-level security) · REST APIs · webhooks
+- **AI:** LLM APIs (assistants with tool use)
+- **Mobile:** Flutter (learning, on a client project)
+- **Payments in West Africa:** Mobile Money through payment aggregators
 - **Deployment:** Vercel · Cloudflare
-- **Payments (West Africa):** Mobile Money integrations through payment aggregators and stripe Worldwide
 
 ---
 
 ### Selected projects
 
-**FIERLAH Manager** - Cloud business management software for West African SMEs: invoicing, cash register, stock, accounting following the OHADA (SYSCOHADA) standard, and an AI assistant that executes tasks inside the app.
+**[2ALSY Platform](https://github.com/cheicktidjane312/2alsy-platform)** - Web app for the alumni association of the Lycée Scientifique de Yamoussoukro. Started as a World Cup 2026 prediction game (scoring, live rankings), then got a ticketing module with PDF tickets, QR codes and scanning at the entrance from a phone.
+`Next.js` `TypeScript` `Supabase` `Vitest` `Playwright`
+
+**FIERLAH Manager** - Cloud business management software for West African SMEs: invoicing, cash register, inventory, cash management, accounting following the regional SYSCOHADA standard, and a built-in assistant that answers questions from the company's own data.
 `Next.js` `TypeScript` `Supabase` `Claude API` · *Private codebase - demo on request*
 
-**2ALSY Cup** - Prediction game platform used by the alumni association of the Lycée Scientifique de Yamoussoukro during the 2026 World Cup: accounts, match management, automatic scoring and live rankings.
-`Next.js` `Supabase` `Vercel` · [Live site](https://2alsycup.fierlah-vertex.com)
-
-**FIERLAH Digital Audit** - Online tool that analyzes a business's digital presence from a short questionnaire and sends a personalized report by email.
+**FIERLAH Digital Audit** - Online tool that analyzes a business's digital presence from a short questionnaire and sends a personalized report by e-mail.
 `Next.js` `Supabase` · [Try it](https://hub.fierlah-vertex.com/audit)
+
+Client work (e-commerce, business websites, internal tools) is in private repos.
 
 ---
 
 ### Contact
 
 [fierlah-vertex.com](https://fierlah-vertex.com) · contact@fierlah-vertex.com
-
-*Open to freelance missions: web applications, SaaS, internal tools and API integrations.*
