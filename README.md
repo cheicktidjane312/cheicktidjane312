@@ -32,7 +32,7 @@ Next for me: machine learning. I'd like to build models that actually fit how bu
 `Next.js` `TypeScript` `Supabase` `Vitest` `Playwright`
 
 **FIERLAH Manager** - Cloud business management software for West African SMEs: invoicing, cash register, inventory, cash management, accounting following the regional SYSCOHADA standard, and a built-in assistant that answers questions from the company's own data.
-`Next.js` `TypeScript` `Supabase` `Claude API` · *Private codebase - demo on request*
+`Next.js` `TypeScript` `Supabase` `LLM API` · *Private codebase - demo on request*
 
 **FIERLAH Digital Audit** - Online tool that analyzes a business's digital presence from a short questionnaire and sends a personalized report by e-mail.
 `Next.js` `Supabase` · [Try it](https://hub.fierlah-vertex.com/audit)
